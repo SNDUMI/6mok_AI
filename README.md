@@ -1,1 +1,1 @@
-# omok_AI
+# 6mok_AI
